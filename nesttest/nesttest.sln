@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "nesttest", "nesttest\nesttest.dtproj", "{BFD33BE4-B2BF-4710-88D9-21C10F1C44A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD33BE4-B2BF-4710-88D9-21C10F1C44A1}.Development|Default.ActiveCfg = Development
+		{BFD33BE4-B2BF-4710-88D9-21C10F1C44A1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B47EB928-F0FC-43C4-BEB3-7055A297C644}
+	EndGlobalSection
+EndGlobal

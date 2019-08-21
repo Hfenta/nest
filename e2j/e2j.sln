@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "e2j", "e2j\e2j.dtproj", "{EC0025B1-3D2A-4CFB-B165-3D394267E457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC0025B1-3D2A-4CFB-B165-3D394267E457}.Development|Default.ActiveCfg = Development
+		{EC0025B1-3D2A-4CFB-B165-3D394267E457}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {850289CE-494A-4250-8F37-693DB9A4F75C}
+	EndGlobalSection
+EndGlobal
