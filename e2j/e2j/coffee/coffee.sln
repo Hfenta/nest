@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "coffee", "coffee\coffee.dtproj", "{3E80489C-A5A5-4EED-B0EE-00468CE44FFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E80489C-A5A5-4EED-B0EE-00468CE44FFA}.Development|Default.ActiveCfg = Development
+		{3E80489C-A5A5-4EED-B0EE-00468CE44FFA}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEDB8C72-0E86-4622-8C9F-E0E3B0CBB473}
+	EndGlobalSection
+EndGlobal
