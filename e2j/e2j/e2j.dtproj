@@ -26,26 +26,26 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">HF</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAobKSH4gOTEKHMo2skFhuYgAAAAACAAAAAAAQZgAAAAEAACAAAADf8crv0YVODUmLAG+fKj3r/h2Feh7jxGFRmzLHn4bOOAAAAAAOgAAAAAIAACAAAACITxhqA4qrkhaI49A/hY5mzrlJ55jJ40TjwEeGK18enJAAAABo7wiw7/11SuzzJplKXx2yQqXRi8sYGioTjdQy6EZfrdzK8gRrPpUk8gaSBXMQXOwHO3PMcIMcCTLpvAhjlIqTxVGt/hD57Qk0CcfuakdagjQ3K4VShfSfYUWdPY34DwcexSrDBAjN7b7p4xIe9y7IXchz5mpiRtfpbxPOl4bJejQHuVQCsDnC6q8LaXo1H15AAAAAdeYnRkQ9f64QVaxwgO0L9a/QtDQt6v6ssaCcItNOxu2g1jlVg9IGmcDBXaoM3MaEw30gZMl3g72sFFQwQWU2KQ==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAobKSH4gOTEKHMo2skFhuYgAAAAACAAAAAAAQZgAAAAEAACAAAAAIN7ysp1JmHFqMt5IKkfFrXhllWFNVa69AqQ498gKenAAAAAAOgAAAAAIAACAAAAA/8zvyfeuzgp5fpMZpKm1MwhaJREQV7fLhVbtvkCxlcpAAAABqA+eOhH4HrloLFmVyJ+hVBN8pSLJ1qD2Y2hBTxjk2hDGbZ/x96RA11XsTLabB4lnl4HbSONP43RZM9nwryBHHspJUeY8sshVtT1ztwuBXGSlwa2G0mrToOsccdpx5wL1XvkCDRAcNJxkd/JWD7iC7E/11YBJRWlfeTcaphWpFdQ+wqEYb14FnMM4TXY0CEdtAAAAAuzz1lWNWNdwB42LWlTlMJsS/EXcxjj+HhES/Tciw0bjIclAqr2b0lW7ygryTGPtwLhesKMxUVkZ9BOZGVvCU/A==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
-          <SSIS:Package SSIS:Name="Package.dtsx" SSIS:EntryPoint="1" />
+          <SSIS:Package SSIS:Name="starbucks.dtsx" SSIS:EntryPoint="1" />
         </SSIS:Packages>
         <SSIS:ConnectionManagers />
         <SSIS:DeploymentInfo>
           <SSIS:ProjectConnectionParameters />
           <SSIS:PackageInfo>
-            <SSIS:PackageMetaData SSIS:Name="Package.dtsx">
+            <SSIS:PackageMetaData SSIS:Name="starbucks.dtsx">
               <SSIS:Properties>
-                <SSIS:Property SSIS:Name="ID">{CABBFC68-3499-41B1-A879-06A72B9ABA33}</SSIS:Property>
-                <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
+                <SSIS:Property SSIS:Name="ID">{545A6701-449E-4C56-9560-28445FAC156B}</SSIS:Property>
+                <SSIS:Property SSIS:Name="Name">starbucks</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">2</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{79852355-606E-41F6-A432-5E12EF517A60}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{8590E58A-811E-400D-A7DE-5308AA8B0032}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
